@@ -1,7 +1,7 @@
 
 fun main() {
     println("Enter input to encrypt the text")
-    val enteredString = "abcDefGhI"
+    val enteredString = "KaustubhAndKrishna"
     val result = caesarCipherEncrypt(enteredString)
     println("The encrypted text is - $result")
 }
